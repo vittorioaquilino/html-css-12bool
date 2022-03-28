@@ -1,0 +1,24 @@
+
+.box{
+    height: 50px;
+    width: 100%;
+    background-color: #3259da;
+    border: 1px solid white;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+#large{
+    height: 80px;
+}
+
+.inner-box{
+    height: 40px;
+    width: 100%;
+    background-color: #5aee5a;
+    border: 1px solid #3259da;
+    color: white;
+    text-align: center;
+}
+
